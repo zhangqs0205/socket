@@ -1,0 +1,8 @@
+D:\Socket\SocketServer\Common\bin\Debug\Common.dll
+D:\Socket\SocketServer\Common\bin\Debug\Common.pdb
+D:\Socket\SocketServer\Common\bin\Debug\Contract.dll
+D:\Socket\SocketServer\Common\bin\Debug\Newtonsoft.Json.dll
+D:\Socket\SocketServer\Common\bin\Debug\Contract.pdb
+D:\Socket\SocketServer\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Socket\SocketServer\Common\obj\Debug\Common.dll
+D:\Socket\SocketServer\Common\obj\Debug\Common.pdb
