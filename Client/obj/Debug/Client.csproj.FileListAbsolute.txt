@@ -1,0 +1,12 @@
+D:\Socket\SocketServer\Client\bin\Debug\Client.exe
+D:\Socket\SocketServer\Client\bin\Debug\Client.pdb
+D:\Socket\SocketServer\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Socket\SocketServer\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Socket\SocketServer\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Socket\SocketServer\Client\obj\Debug\Client.exe
+D:\Socket\SocketServer\Client\obj\Debug\Client.pdb
+D:\Socket\SocketServer\Client\obj\Debug\Client.Login.resources
+D:\Socket\SocketServer\Client\bin\Debug\Client.exe.config
+D:\Socket\SocketServer\Client\bin\Debug\Contract.dll
+D:\Socket\SocketServer\Client\bin\Debug\Contract.pdb
+D:\Socket\SocketServer\Client\obj\Debug\OutlookBarWorkspaceQuickstart.MailModule.MessageList.resources

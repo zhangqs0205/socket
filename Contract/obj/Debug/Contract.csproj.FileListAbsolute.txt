@@ -1,0 +1,5 @@
+D:\Socket\SocketServer\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+D:\Socket\SocketServer\Contract\bin\Debug\Contract.dll
+D:\Socket\SocketServer\Contract\bin\Debug\Contract.pdb
+D:\Socket\SocketServer\Contract\obj\Debug\Contract.dll
+D:\Socket\SocketServer\Contract\obj\Debug\Contract.pdb

@@ -1,0 +1,13 @@
+D:\Socket\SocketServer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Socket\SocketServer\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Socket\SocketServer\Server\obj\Debug\Server.Resource1.resources
+D:\Socket\SocketServer\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Socket\SocketServer\Server\bin\Debug\Server.exe
+D:\Socket\SocketServer\Server\bin\Debug\Server.pdb
+D:\Socket\SocketServer\Server\obj\Debug\Server.exe
+D:\Socket\SocketServer\Server\obj\Debug\Server.pdb
+D:\Socket\SocketServer\Server\bin\Debug\Server.exe.config
+D:\Socket\SocketServer\Server\obj\Debug\Server.ManegeClient.resources
+D:\Socket\SocketServer\Server\obj\Debug\Server.MainServer.resources
+D:\Socket\SocketServer\Server\bin\Debug\Contract.dll
+D:\Socket\SocketServer\Server\bin\Debug\Contract.pdb
